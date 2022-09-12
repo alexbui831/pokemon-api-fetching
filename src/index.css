@@ -11,6 +11,7 @@
     }
     
     .changaFont {
-        @apply text-xl text-white decoration-8 font-changa bg-lightPurple mb-4
+        @apply text-xl text-white decoration-8 font-changa bg-lightPurple mb-4  hover:bg-darkPurple rounded-md
     }
+    
 }
