@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 import { GiPokecog } from "react-icons/gi";
-import { AiFillGithub } from "react-icons/ai"
+import { AiFillGithub } from "react-icons/ai";
+
 const Header = () => {
   return (
     <>
@@ -11,7 +12,7 @@ const Header = () => {
             </div>
             <div className="flex justify-end m-4 pt-4 text-white font-changa">
               <AiFillGithub size={20}/>
-              <a rel="noreferrer" href="https://github.com/alexbui831/pokemon-api-fetching" target="_blank">gitHub</a>
+              <a rel="noreferrer" href="https://github.com/alexbui831/pokemon-api-fetching" target="_blank">gitHub : Alexander Bui</a>
             </div>
         </div>
     </>

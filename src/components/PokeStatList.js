@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const PokeStatList = ({ pokemonStats }) => {
 
@@ -12,12 +12,12 @@ const PokeStatList = ({ pokemonStats }) => {
 
   return (
     <>
-        <div className="mx-2 text-white text-xl">HP : {hp}</div>
-        <div className="mx-2 text-white text-xl">Attack : {atk}</div>
-        <div className="mx-2 text-white text-xl">Defense : {def}</div>
-        <div className="mx-2 text-white text-xl">Special Attack : {spatk}</div>
-        <div className="mx-2 text-white text-xl">Special Defense : {spdef}</div>
-        <div className="mx-2 text-white text-xl">Speed : {spd}</div>
+        <div className="mx-2 text-white text-xl py-2">HP : {hp}</div>
+        <div className="mx-2 text-white text-xl py-2">Attack : {atk}</div>
+        <div className="mx-2 text-white text-xl py-2">Defense : {def}</div>
+        <div className="mx-2 text-white text-xl py-2">Special Attack : {spatk}</div>
+        <div className="mx-2 text-white text-xl py-2">Special Defense : {spdef}</div>
+        <div className="mx-2 text-white text-xl py-2">Speed : {spd}</div>
     </>
   )
 }

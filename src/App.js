@@ -1,5 +1,5 @@
-import FetchAPI from './components/FetchAPI.js'
-import Header from './components/Header.js'
+import FetchAPI from './components/FetchAPI.js';
+import Header from './components/Header.js';
 
 function App() {
   return (
