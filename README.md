@@ -1,3 +1,9 @@
+
+
+https://user-images.githubusercontent.com/61631923/190845027-d436abeb-5d97-486a-bf3a-832eaab8f1d5.mov
+
+
+
 ## Self-coded by Alexander Bui : Sept 2022
 
 ## React Axios tailwind.css app learning how to use REST API services using Poke API to create an Pokedex website that allows you to search through all currently available Pokemon provided through the Poke API.
